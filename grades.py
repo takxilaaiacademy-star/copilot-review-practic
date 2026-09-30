@@ -15,3 +15,4 @@ def grade(score):
 students = {"Asha": [88, 92, 79], "Ravi": []}
 for name in students:
     print(name, grade(average(students[name])))
+###
